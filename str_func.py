@@ -1,3 +1,3 @@
 def func(word):
-    """function"""
+    """function description"""
     return word.upper()
